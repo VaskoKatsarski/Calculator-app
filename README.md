@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/8cb00098-36e0-438d-9792-08ebb00fa48d)
 # Calculator-app
 This repository contains a modern, responsive, and visually appealing calculator implemented in HTML, CSS, and JavaScript. The calculator is capable of performing basic arithmetic operations and provides an interactive, user-friendly interface.
 
